@@ -1,0 +1,28 @@
+body {
+  background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJ8AqQMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAQIDBAUH/8QALRAAAgIABQMCBQQDAAAAAAAAAAECAwQREiExE0FRMsEUIlJxoUJiseFhgqL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+4nJfbK2fRp+0pexaycrpOuvaKeUp+xrVXGqKiucgK00RqSNgAAAAAHFir5Sl0queGwGKxOpuqrniTK4fD8GmHw2nc6lsgIjHSiwAAAAADlvtlOfSp/2YEYm6UpdKrnhstRh4wyz5L1URqNgHAAAAACsIqMUlwlkiwAAAAADjxFspz6VPnKUvYBibpSl0queGy9GHjDnktRh41ZM3AAAAAAABlLOxuMXlFep+wFZynZJwr2WeUpeyL11wrSUS0YpJJLJLgsAAAAAAAQ2km3skY/F0fWgNwAAAOeyU7JOFeyzylL2ArfZKyXSp+0pGtNMaY/KTXCNaUY+DQAgAAAAAAAQ0SAAAAAAACG0k29kg2km3skcc5SxM9ENq1z+4CLbJYmeiDyrXL+oj4aP7TrrrjBLLk0AAFJZy24j/IFJZ2NxjtFcy8/4NIxSSS4XBKSSSSyRIAAAAAAAAAAAAAAAAAhtJNvZIPbd9jFqVz3+Wvx9QFJasVLJPKpf9HRCCgsokxWUUlwkSAAAAAAAAAAAAAAAAAAAAAAAABRrW9/Su3kugAAAAAAAAAAAAAAAAAAAAFZSUd2/siJzUFnJ/wBla4tvXP1ePAF48ZvksFwAAAAAAAAAAAAAAAAAAAAAAAUssjVFyk/7Ftka4OU3sc9UZXzVti49MfAF6Yzm+rYt/wBMX+k6AAAAAAAAAAAAAAAAAAAAAAAAUtsjXBym8ooi2yNcHKbyivyccFPFWapL5VwuyAtWpYizXNZR7LsjtSyWSIjFRW3BYAAAAAAFE9Unl6V+WUcnbJwi8op/M/Y1SSSSWSXAEgAAAAAIfl7JGfXr+oDUAAAAAM7bI1Qc5vJfyLbI1Qc5vJL8nBnLFT1SWUVwuyAla8VPVJZR7LsjuqgoR24Ipr0pZGoAAAAAAOayx22OqvhPKUvYrfbKc+lT5ykzemuNccogTCKriorjsXAAAAAQ/L2SD8vZI4rrZXz6dXp7vyBNlksRPRXtBcvyT8NX9UTeivpwyL6QLAAAZ22Rqg5zeSX5Jsmq4OcuEeZKcsVZnLZZ/KvAEylPFT1ST0rheDuorUUmuClFS7cHUtkAAAAAADjxN8pz6VP2kyMZfJT6NWz7y8F8LTojuBph6ulE2C4AAAACH5eyRJ5+KvlbY6a9op5SfkBfdK+fSq9Pd+Tpw1WiJTDU6MjqAAAD/9k=);
+}
+.xx {
+  padding-left: -600px !important;
+  font-size: x-large;
+  /* margin-left: 1px !important; */
+  border: 5px black solid !important;
+}
+.aa {
+  font-size: 40px !important;
+  margin-right: 150px !important;
+}
+.sss {
+  padding: 20px !important;
+  margin-left: 200px !important;
+  display: inline-block !important;
+  position: absolute;
+  top: -300px;
+  right: -150px;
+  border: 5px black solid !important;
+}
+.qq {
+  display: inline-block !important;
+  position: absolute;
+  right: -150px !important;
+  border: 5px black solid !important;
+}
